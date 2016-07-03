@@ -60,6 +60,9 @@ public class MainActivity extends AppCompatActivity {
                     music[2].pause();
             }
         });
+        
+        //I added this comment from GitHub ONline 
+        //Consider it from another machine
 
 
 
